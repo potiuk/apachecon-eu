@@ -26,13 +26,23 @@ In this short talk, Navendu will answer these questions by exploring how Gateway
     </item>
     
     <item>
-      <title>All your code are belong to Policy Makers, Politicians and the Law</title>
+      <title>All your code belongs to Policy Makers, Politicians and the Law</title>
       <link>https://eu.communityovercode.org/sessions/2024/keynote-dirk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/sessions/2024/keynote-dirk/</guid>
       <description>Software has matured and is now an integral, key, part of society, its infrastructure and economy. Yet, by and large, the industries stance on security, reliability and preventing data leaks has fallen way behind. We&amp;rsquo;re regularly front-page news. So - like all important engineering industries before it - that means that politicians all over the world have started to care. And are introducing software regulation.
 Europe leads that pack with the, now final, Cyber Resilience Act and the Product Liability Directive.</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of reading Apache Parquet files (from the Apache Impala perspective)</title>
+      <link>https://eu.communityovercode.org/sessions/2024/anatomy-apache-parquet-files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/anatomy-apache-parquet-files/</guid>
+      <description>Reading file formats efficiently is a crucial part of big data systems - in selective scans data is often only big before hitting the first filter and becomes manageable during the rest of the processing. The talk describes this early stage of query execution in Apache Impala, from reading the bytes of Parquet files on the filesystem to applying predicates and runtime filters on individual rows.
+Apache Impala is a distributed massively parallel analytic query engine written in C++ and Java.</description>
     </item>
     
     <item>
@@ -155,15 +165,6 @@ The Java Operator SDK is a production-ready framework that makes implementing Ku
     </item>
     
     <item>
-      <title>Building services and pipelines for real-world data</title>
-      <link>https://eu.communityovercode.org/sessions/2024/building-services-and-pipelines-for-real-world-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/building-services-and-pipelines-for-real-world-data/</guid>
-      <description>In the speech &amp;ldquo;Building Services and Pipelines for Real-World Data,&amp;rdquo; the speaker, an experienced professional in analytics services, delves into the complexities and challenges of extracting meaningful insights from chaotic, real-world data. The speech will address practical scenarios, from analyzing trading transactions to interpreting geolocation data, highlighting the difficulties in aligning data with real-world events and developing reliable analytical services. The speaker will share firsthand experiences and solutions for creating effective data pipelines and services, emphasizing the importance of adaptable architectures and strategies in data transformation and interpretation.</description>
-    </item>
-    
-    <item>
       <title>Cassandra CIDR filtering authorizer (CEP-33)</title>
       <link>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -171,6 +172,16 @@ The Java Operator SDK is a production-ready framework that makes implementing Ku
       <guid>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</guid>
       <description>As Cassandra clusters and users onboarding to multi cloud platforms, users may access Cassandra clusters from on-premise and from various cloud platforms. Admins may need to restrict certain users/teams to access from certain IP ranges, aka, CIDR groups. Also, may need to restrict superusers credentials usage from third party clouds.
 CIDR filtering authorizer provides capability for admins to configure allow or disallow users access from different CIDR groups, which can help in preventing misuse of copied or hacked credentials.</description>
+    </item>
+    
+    <item>
+      <title>Cassandra Vector Search Performance Tuning</title>
+      <link>https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/</guid>
+      <description>Cassandra 5.0 now incorporates vector search capabilities powered by DiskANN, an advanced technology developed by Microsoft Research. In this session, we are will demonstrate the vector search performance of Cassandra 5.0, juxtaposed with other leading databases. Our benchmarking platform will be utilized to assess a variety of key metrics, including I/O performance as well as the precision and recall accuracy of the search results.
+Furthermore, the session will delve into optimization strategies for Cassandra.</description>
     </item>
     
     <item>
@@ -351,6 +362,15 @@ Scalability improvements: Presenting improvements on Fineract&amp;rsquo;s scalab
     </item>
     
     <item>
+      <title>From Local Roots to Global Impact: Building an Inclusive Open Source Community in Africa</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</guid>
+      <description>The rapid growth of the global open source community has led to the expansion of numerous projects, including the establishment of chapters in diverse regions such as Africa. This talk will explore the unique experiences and insights gained from leading an African chapter of the CHAOSS project, highlighting both the challenges faced and the victories achieved along the way. It will discuss the growth of the open source movement in Africa and emphasize the importance of building a diverse and inclusive community.</description>
+    </item>
+    
+    <item>
       <title>Gatekeep iceberg data quality with Apache Toree and airflow</title>
       <link>https://eu.communityovercode.org/sessions/2024/gatekeep-iceberg-data-quality-with-apache-toree-and-airflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -484,30 +504,12 @@ In this session, the attendance can first expect a quick reminder about Camel Qu
     </item>
     
     <item>
-      <title>Keynote</title>
-      <link>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</guid>
-      <description>Abstract coming soon.</description>
-    </item>
-    
-    <item>
       <title>Let’s see how fast Impala runs on Iceberg</title>
       <link>https://eu.communityovercode.org/sessions/2024/lets-see-how-fast-impala-runs-on-iceberg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/sessions/2024/lets-see-how-fast-impala-runs-on-iceberg/</guid>
       <description>Apache Impala is a distributed massively parallel query engine designed for high-performance querying of large-scale data. There has been a long list of new features recently around supporting Apache Iceberg tables such as reading, writing, time traveling, and so on. However, in a big data environment it is also a must to be performant. Since Impala has been designed to be fast, it has its own way of reading Iceberg tables.</description>
-    </item>
-    
-    <item>
-      <title>Leveraging Groovy and Apache Ignite for fast, distributed, scaleable computing and data</title>
-      <link>https://eu.communityovercode.org/sessions/2024/leveraging-groovy-and-apache-ignite-for-fast-distributed-scaleable-computing-and-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/leveraging-groovy-and-apache-ignite-for-fast-distributed-scaleable-computing-and-data/</guid>
-      <description>Following on from the previous success of distributing Groovy tasks over an Ignite Cluster to solve oddly shaped Rubik’s cubes, we investigate further possibilities using Groovy’s concise and expressive syntax to extend Ignite. This time we take a deeper look at classloader behaviour in the JVM to distribute native Groovy closures. We also extend the Groovy REPL to give us an easy way to fire up nodes in an Ignite cluster and to query data against it.</description>
     </item>
     
     <item>
@@ -519,15 +521,6 @@ In this session, the attendance can first expect a quick reminder about Camel Qu
       <description>In industrial automation, the established way of collecting data from industrial equipment has many issues. Issues for which Apache provides a number of great ways to avoid them.
 In this talk, I want to demonstrate some of the issues I have seen and how we can resolve all of them with combinations of some of the amazing projects we have at Apache:
 How we can use Apache TsFile to directly collect data on the hardware</description>
-    </item>
-    
-    <item>
-      <title>Maintaining Diverse Maintainers: How to Keep Your Project Inclusive</title>
-      <link>https://eu.communityovercode.org/sessions/2024/maintaining-diverse-maintainers-how-to-keep-your-project-inclusive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/maintaining-diverse-maintainers-how-to-keep-your-project-inclusive/</guid>
-      <description>After maintaining open source projects for 5+ years now with diverse teams, I&amp;rsquo;ve learn some key ways to keep your open source project inclusive. Whether it&amp;rsquo;s the platforms you use, communication style, development flexibility, project promotion, or keeping contribution barrier low, there&amp;rsquo;s lots of small strategies that can be used to increase representation and community connection.</description>
     </item>
     
     <item>
@@ -556,6 +549,15 @@ How we can use Apache TsFile to directly collect data on the hardware</descripti
       <guid>https://eu.communityovercode.org/sessions/2024/managing-the-camel-development-lifecycle-within-vs-code/</guid>
       <description>Apache Camel is the leading open-source integration framework that simplifies the integration of various systems and applications. There exists a comprehensive set of Tooling specifically designed to empower Camel developers in their work with Apache Camel within VS Code. These tools facilitate a seamless and efficient development experience, offering robust support and functionalities tailored to the needs of Camel developers.
 In my session I would like to rely on the Extension Pack for Apache Camel which contains a set of specific extensions for Camel but also leverages the VS Code ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>Measuring the Impact of Community Events</title>
+      <link>https://eu.communityovercode.org/sessions/2024/measuring-impact-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/measuring-impact-community/</guid>
+      <description>One of the mainstays of the open source ecosystem are community events. Open Source Summit, All Things Open, Community Over Code&amp;hellip; all examples of community events with vitality and influence within open source. But unlike more commercially focused events, community events are not as simple to measure in terms of benefits to organizations that participate. Without sales leads or conversions, how does a commercial organization measure the gains of participation? And for community projects, what&amp;rsquo;s the return on investment in running a booth or giving talks at such events?</description>
     </item>
     
     <item>
@@ -697,6 +699,15 @@ In this talk, discover how to completely change the narrative about discussing A
     </item>
     
     <item>
+      <title>Recon - Ozone cluster monitoring and observability</title>
+      <link>https://eu.communityovercode.org/sessions/2024/recon-ozone-cluster-monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/recon-ozone-cluster-monitoring/</guid>
+      <description>Ozone is a redundant, distributed object store optimized for Big data workloads. The primary design point of ozone is scalability, and it aims to scale to billions of objects. Recon provides monitoring and observability capability, which provides various insights about data in Ozone and cluster health. As part of this, will cover the various insights about data, cluster health monitoring and heat map capability, and various features which help in understanding and observing the data and Ozone.</description>
+    </item>
+    
+    <item>
       <title>SDN Options in Apache CloudStack</title>
       <link>https://eu.communityovercode.org/sessions/2024/sdn-options-in-apache-cloudstack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -744,15 +755,6 @@ In 2023 three minor releases, namely 1.1, 1.2 and 1.3 have been released but alt
       <guid>https://eu.communityovercode.org/sessions/2024/state-of-the-civet/</guid>
       <description>An update on what&amp;rsquo;s happened inside the Apache PLC4X over the last year. What we have achieved and what we are planning on doing for the near and not-so-near future.
 From new protocols, updated APIs, new languages, GUI applications right up to even more supported languages and fully generated driver implementations.</description>
-    </item>
-    
-    <item>
-      <title>Storage Attached Index &amp; Vector Search in Cassandra 5.0</title>
-      <link>https://eu.communityovercode.org/sessions/2024/storage-attached-index-vector-search-in-cassandra-5-0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/storage-attached-index-vector-search-in-cassandra-5-0/</guid>
-      <description>This session will be a dive into the internals of SAI and Vector Search in Cassandra 5.0. It will cover the current functionality and limitations of SAI and suggested future priorities for the project. It will also look at the read and write paths for SAI and their relationship to the current Cassandra paths. Finally, it will look at the the in-memory and on-disk data structures used for the indexes and why these were chosen.</description>
     </item>
     
     <item>

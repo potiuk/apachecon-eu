@@ -96,6 +96,15 @@ Experience with a great variety of clients has taught him to be a proficient and
     </item>
     
     <item>
+      <title>Alexander Laye</title>
+      <link>https://eu.communityovercode.org/speakers/alexander-laye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/alexander-laye/</guid>
+      <description>I&amp;rsquo;m a Northern Virginia based Software Engineer. I started my career working for a government contractor developing internal tooling for other developers working on a grant management application. About two years ago, I changed roles to work at Microsoft, and since then I&amp;rsquo;ve been working on Azure&amp;rsquo;s managed Cassandra offering.</description>
+    </item>
+    
+    <item>
       <title>Alexandre Gallice</title>
       <link>https://eu.communityovercode.org/speakers/alexandre-gallice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -170,15 +179,6 @@ Ana is really interested in Open Source, InnerSource, and community metrics.</de
     </item>
     
     <item>
-      <title>Antonio Murgia</title>
-      <link>https://eu.communityovercode.org/speakers/antonio-murgia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/speakers/antonio-murgia/</guid>
-      <description>The spirit of a SW Engineer in the body of a Data Engineer: on a never-ending quest for painless data operationalisation</description>
-    </item>
-    
-    <item>
       <title>Aparna Sundar</title>
       <link>https://eu.communityovercode.org/speakers/aparna-sundar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -225,12 +225,12 @@ Her commitment to calibrating the essence of &amp;ldquo;good&amp;rdquo; in infor
     </item>
     
     <item>
-      <title>Boris Gordeev</title>
-      <link>https://eu.communityovercode.org/speakers/boris-gordeev/</link>
+      <title>Boris Stoyanov</title>
+      <link>https://eu.communityovercode.org/speakers/boris-stoyanov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/speakers/boris-gordeev/</guid>
-      <description>An engineer with a total of 6 years of experience who worked for various product-based companies in Russia and small startups in Europe, currently working for a tech unicorn and potentially the next big thing - Revolut</description>
+      <guid>https://eu.communityovercode.org/speakers/boris-stoyanov/</guid>
+      <description>Devoted to QA and testing since 2007. I&amp;rsquo;ve been involved with Apache CloudStack since 2016 and I&amp;rsquo;ve been testing numerous features and releases throughout the years. Also I&amp;rsquo;ve been active community member and PMC.</description>
     </item>
     
     <item>
@@ -298,12 +298,30 @@ I was originally attracted to Apache by its approach to governance, where the pe
     </item>
     
     <item>
+      <title>Csaba Ringhofer</title>
+      <link>https://eu.communityovercode.org/speakers/csaba-ringhofer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/csaba-ringhofer/</guid>
+      <description>Csaba has been working on Apache Impala since 2017 at Cloudera. He is a Member of the Apache Impala PMC. He studied at the Budapest University of Technology and Economics.</description>
+    </item>
+    
+    <item>
       <title>Daniel Augusto Veronezi Salvador</title>
       <link>https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/</guid>
       <description>Principal Engineer at SC Clouds; CloudStack PMC</description>
+    </item>
+    
+    <item>
+      <title>Daniel Becker</title>
+      <link>https://eu.communityovercode.org/speakers/daniel-becker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/daniel-becker/</guid>
+      <description>Daniel Becker started working on Apache Impala in 2019 at Cloudera. His Impala contributions encompass various topics, including LLVM code generation, complex types, Parquet and Iceberg. He is a member of the Apache Impala PMC and has a degree from Pázmány Péter Catholic University.</description>
     </item>
     
     <item>
@@ -334,6 +352,15 @@ As an accomplished author, David has penned the highly regarded book &amp;ldquo;
       <description>Dennis Kieselhorst is a Solutions Architect at Amazon Web Services. He has 20 years of experience with software architectures, especially in large distributed heterogeneous environments.
 Dennis loves to contribute to Open Source projects and is a committer and PMC member at Apache Software Foundation. Moreover he is member of the organizing committees for the Java Forum Nord and the Java User Group (JUG) Bremen-Oldenburg.
 Prior to joing Amazon Dennis worked as a team leader, architect and consultant at a number of enterprise companies in different sectors.</description>
+    </item>
+    
+    <item>
+      <title>Devesh Singh</title>
+      <link>https://eu.communityovercode.org/speakers/devesh-singh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/devesh-singh/</guid>
+      <description>Currently, I am working in Cloudera as a Sr. Staff Engineer with deep background and expertise in software architecture and engineering and the ability to liaise with the business side. With nearly 22 years of professional experience in various enterprises as AI and cloud Architect, AWS and open source software, I have a passion for creative problem solving, a strong work ethic and the ability to bridge the gap between business leaders and software development teams.</description>
     </item>
     
     <item>
@@ -497,15 +524,6 @@ Since May 2006 he lives in Neuchatel (Switzerland) where he works for RedHat on 
     </item>
     
     <item>
-      <title>Jeremy Meyer</title>
-      <link>https://eu.communityovercode.org/speakers/jeremy-meyer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/speakers/jeremy-meyer/</guid>
-      <description>More than 20 years as a computer scientist and software engineer, developer, writer and educator.</description>
-    </item>
-    
-    <item>
       <title>João Jandre Paraquetti</title>
       <link>https://eu.communityovercode.org/speakers/joao-jandre-paraquetti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -578,15 +596,6 @@ B.Sc., Computer Science &amp;amp; Management in Tel Aviv University, MBA, Manage
       
       <guid>https://eu.communityovercode.org/speakers/lindsey-zurovchak/</guid>
       <description>Lindsey is a Software Engineer on Bloomberg&amp;rsquo;s NoSQL Infrastructure team, building Cassandra as a Service for internal application teams. She previously presented her team&amp;rsquo;s work at ApacheCon NA 2022 and Cassandra Summit 2023.</description>
-    </item>
-    
-    <item>
-      <title>Lisa N. Cao</title>
-      <link>https://eu.communityovercode.org/speakers/lisa-n-cao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/speakers/lisa-n-cao/</guid>
-      <description>Lisa is a former data analyst, now data engineer and software engineer interested in observability, validation, and reliability in data systems. Her background consists of a variety of start-ups, nonprofits, consulting firms, GovTech, and biotechnology. She is a Google Women TechMakers Ambassador, Linux Foundation LiFT recipient for Women in Open Source, founder and chair of the Vancouver Datajam, and lead maintainer of the BiocSwirl project.</description>
     </item>
     
     <item>
@@ -691,15 +700,6 @@ He has also worked as Product Manager at Ververica, where he was responsible for
       <guid>https://eu.communityovercode.org/speakers/mick-semb-wever/</guid>
       <description>Principal Architect at DataStax, engineering and product on Cassandra and Open Source.
 Beyond technology, crazy about snowboarding, rock climbing, trail running, skiing, surfing, and just anything awesome in nature.</description>
-    </item>
-    
-    <item>
-      <title>Mike Adamson</title>
-      <link>https://eu.communityovercode.org/speakers/mike-adamson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/speakers/mike-adamson/</guid>
-      <description>Mike is a Committer to the Apache Cassandra project with 15 years exprerience working with and developing for Cassandra. He was the lead developer on the migration of the Storage Attached Index project (CEP-7) and the Vector Search project (CEP-30) to Cassandra 5.0.</description>
     </item>
     
     <item>
@@ -905,6 +905,15 @@ Omotola understands how communities work and creates an extraordinarily welcomin
     </item>
     
     <item>
+      <title>Ritesh Shukla</title>
+      <link>https://eu.communityovercode.org/speakers/ritesh-shukla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/ritesh-shukla/</guid>
+      <description>Ritesh is an Apache Ozone PMC. He has over a decade of experience with distributed storage solutions and systems. He is passionate about picking all three in a solution: simple, right, and efficient. He is currently working on Ozone, a distributed object store that caters to HDFS and S3 workloads.</description>
+    </item>
+    
+    <item>
       <title>Sergio del Amo</title>
       <link>https://eu.communityovercode.org/speakers/sergio-del-amo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -971,6 +980,15 @@ Github: https://github.com/apache/hive/commits/master/?author=simhadri-g</descri
     </item>
     
     <item>
+      <title>Sumit Agrawal</title>
+      <link>https://eu.communityovercode.org/speakers/sumit-agrawal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/sumit-agrawal/</guid>
+      <description>I am a Sr. Staff Engineer at Cloudera, contributing to Apache Ozone distributed storage and also a committer. I have 17 years experience in IT industry and worked over various domain including data storage, cloud application and middleware.</description>
+    </item>
+    
+    <item>
       <title>Szymon Janc</title>
       <link>https://eu.communityovercode.org/speakers/szymon-janc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1015,6 +1033,15 @@ She used to be responsible for the design and development of the intelligent dat
       
       <guid>https://eu.communityovercode.org/speakers/uma-maheswara-rao-gangumalla/</guid>
       <description>Uma Maheswara Rao is an Apache Software Foundation Member[1]. An Apache Hadoop, Ozone, BookKeeper, Incubator committer and a member of the Project Management Committee[2], and a long-term active contributor to the Apache Hadoop project. He is also mentoring several incubator projects at Apache. He has more than 15 years of experience in large scale Distributed Software Platforms design and development. Currently, Uma is working as a Senior Engineering Manager at Cloudera, Inc, and primarily focuses on open source big data technologies.</description>
+    </item>
+    
+    <item>
+      <title>Uri Smiley</title>
+      <link>https://eu.communityovercode.org/speakers/uri-smiley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/uri-smiley/</guid>
+      <description>I am part of the team dedicated to developing Microsoft&amp;rsquo;s Cassandra as a Service (CaaS) offering. In my current role, I have been deeply involved in performance tuning and benchmarking, both for our specific product and for Cassandra at large. My contributions include devising and implementing comprehensive workloads that are used daily to detect and address any performance regressions.</description>
     </item>
     
     <item>
