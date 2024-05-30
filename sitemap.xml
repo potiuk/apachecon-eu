@@ -41,6 +41,9 @@
     <loc>https://eu.communityovercode.org/speakers/ruth-ikegah/</loc>
     <lastmod>2023-12-21T01:34:12-06:00</lastmod>
   </url><url>
+    <loc>https://eu.communityovercode.org/speakers/ryan-skraba/</loc>
+    <lastmod>2023-12-21T01:34:12-06:00</lastmod>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/dirk-willem-van-gulik/</loc>
     <lastmod>2023-12-21T00:47:42-06:00</lastmod>
   </url><url>
@@ -221,6 +224,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/building-a-kubernetes-operator-for-apache-flink-in-java/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/open-source-data-strategy-dremio/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/track/cassandra/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</loc>
@@ -327,6 +332,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/glaucia-esppenchutz/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/gravitino/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/greg-brown/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/track/groovy/</loc>
@@ -373,11 +380,11 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/javier-borkenztain/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/speakers/jb-onofre/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/jean-frederic-clere/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/joao-jandre-paraquetti/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/speakers/juan-pablo-flores/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/julian-feinauer/</loc>
   </url><url>
@@ -517,8 +524,6 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/ritesh-shukla/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/speakers/ryan-skraba/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/schedule/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/sdn-options-in-apache-cloudstack/</loc>
@@ -592,8 +597,6 @@
     <loc>https://eu.communityovercode.org/sessions/2024/unleash-the-power-of-asynchronous-decision-making/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/unleashing-high-concurrency-real-time-iot-queries-with-apache-druid/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/uri-smiley/</loc>
   </url><url>
